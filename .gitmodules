@@ -1,6 +1,3 @@
 [submodule "BIM"]
 	path = BIM
 	url = git@github.com:Retrodolivo/BIM.git
-[submodule "Wattmeter-DAC"]
-	path = Wattmeter-DAC
-	url = git@github.com:Retrodolivo/Wattmeter-DAC.git
