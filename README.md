@@ -5,7 +5,7 @@ This repository contains some of my work as an engineer in [Russian Scientific R
  
  [**Microwave wattmeter**](https://drive.google.com/file/d/1DkEJPY_jXihFlMOo3NosO_gAjYZUhH1n/view?usp=sharing)
  It is a device which measure power of RF signal passing across waveguide to load.
- ![Wattmeter functional block scheme](https://drive.google.com/file/d/1RrY7UBgjjW0KfLaypWt580LVTiGl9pI9/view?usp=sharing)
+ ![Wattmeter functional block scheme](img/wattmeter.jpg)
  * 1. *Converter*
  This consist of waveguide and sensor. Sensor is nothing but a thermistor, which located in waveguide. When measured signal passing through termistor the electromagnetic energy is converting to heat. This leads to  resistance changing of thermistor. 
   * 2. *Measurment unit*
