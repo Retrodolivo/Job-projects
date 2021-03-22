@@ -12,8 +12,17 @@ This repository contains some of my work as an engineer in [Russian Scientific R
   * 2. *Measurment unit*. 
   Its job is to calculate electromagnetic power according to the state of sensor.
  ### Submodules
+
+ There are 2 types of wattmeters. They are differ in the types of measurment unit - can be based on microcontroller, microprocessor or PC.  
+
  * *Wattmeter-DAC*
 
- Atmel Studio project for ATmega8A MCU. MCU getting commands from user's desktop program via FTDI FT2232 usb/spi bridge IC.
+ Atmel Studio project for ATmega8A MCU. MCU getting commands from user's PC program via FTDI FT2232 usb/spi bridge IC.
 
  ![Wattmeter_PC](img/Wattmeter_DAC.jpg)
+
+ * *BIM*
+
+ The main computing center is Raspberry Pi 3B+.
+
+ ![Wattmeter_RPi](img/Wattmeter_RPi.jpg) 
