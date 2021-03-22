@@ -25,4 +25,4 @@ This repository contains some of my work as an engineer in [Russian Scientific R
 
  The main computing center is Raspberry Pi 3B+.
 
- ![Wattmeter_RPi](img/Wattmeter_RPi.jpg) 
+ ![Wattmeter_RPi](img/Wattmeter_RPi3.jpg) 
